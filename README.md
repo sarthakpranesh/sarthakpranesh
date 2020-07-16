@@ -12,3 +12,7 @@
 
 ##### What I absolutely hate
 * CORS error 😡
+
+<br/>
+
+![Sarthak Pranesh's github stats](https://github-readme-stats.vercel.app/api?username=sarthakpranesh)
