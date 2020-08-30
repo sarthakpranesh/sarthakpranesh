@@ -2,7 +2,7 @@
 
 ##### Here's what I am up to
 * Maintaining & Building React Native apps
-* Learning TypeScript, Golang, Spring Boot and OpenMP (also writing a basic tutorial on it)
+* Learning TypeScript, Golang and OpenMP (also writing a basic tutorial on it)
 * Writing blogs on getting started with Linux, check them out [here](https://medium.com/vit-linux-user-group/introduction-to-linux-part-1-first-blood-3cd248b8ede0)
 * Playing with [OpenCore](https://dortania.github.io/OpenCore-Desktop-Guide/) 😋
 
