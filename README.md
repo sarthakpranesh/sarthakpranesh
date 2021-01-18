@@ -1,13 +1,13 @@
 ## Hello 👋
 
 ##### Here's what I am up to
-* Maintaining & Building React Native apps
+* Maintaining & Building: React Native apps, Wails Desktop apps, APIs and Hugo theme [Blogfolio](https://github.com/sarthakpranesh/Blogfolio)
 * Learning and working on TypeScript, Golang, OpenMP and ASR
-* Writing blogs on getting started with Linux and OpenMP, check them out here: [Introduction To Linux](https://medium.com/vit-linux-user-group/introduction-to-linux-part-1-first-blood-3cd248b8ede0), [OpenMP](https://github.com/sarthakpranesh/OpenMP_Basics)
+* Writing blogs on getting started with Linux and OpenMP, check them out [here](https://sarthakpranesh.now.sh/blogs/)
 * Playing with [OpenCore](https://dortania.github.io/OpenCore-Desktop-Guide/) 😋
 
 ##### Future Plans
-* Learn Flutter, Vue, and Electron.
+* Learn Flutter, Kubernetes, and Electron.
 * Start an Open Source Organisation
 
 ##### What I absolutely hate
@@ -15,4 +15,4 @@
 
 <br/>
 
-![Sarthak Pranesh's github stats](https://github-readme-stats.vercel.app/api?username=sarthakpranesh)
+![Sarthak Pranesh's github stats](https://github-readme-stats.vercel.app/api?username=sarthakpranesh&show_icons=true&theme=radical)
