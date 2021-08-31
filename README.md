@@ -17,6 +17,3 @@
 
 ![Sarthak Pranesh's github stats](https://github-readme-stats.vercel.app/api?username=sarthakpranesh&show_icons=true&theme=radical)
 
-
-
- <iframe src="https://sarthakpranesh.vercel.app" title="Sarthak Pranesh"></iframe> 
