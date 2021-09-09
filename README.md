@@ -1,17 +1,20 @@
-## Hello 👋
+## Hi there, I'm Sarthak
+I do almost everything
 
-##### Here's what I am up to
-* Maintaining & Building: React Native apps, Wails Desktop apps, APIs and Hugo theme [Blogfolio](https://github.com/sarthakpranesh/Blogfolio)
-* Learning and working on TypeScript, Golang, OpenMP and ASR
-* Writing blogs on getting started with Linux and OpenMP, check them out [here](https://sarthakpranesh.now.sh/blogs/)
-* Playing with [OpenCore](https://dortania.github.io/OpenCore-Desktop-Guide/) 😋
+<br />
 
-##### Future Plans
-* Learn Flutter, Kubernetes, and Electron.
-* Start an Open Source Organisation
+### Goals this year
+- Maintain and Build awesome apps and services with React, React Native, Golang, Nodejs and Python
+- Learn Flutter, Kubernetes and Electron
+- Start an open source organization
+- Write blogs on React, React Native, Golang, and Linux
+- Get a job (got 😬)
+- Give GRE and TOEFL (GRE: 315)
 
-##### What I absolutely hate
-* CORS error 😡
+<br />
+
+### Connect with me
+[Website](https://sarthakpranesh.vercel.app/) | [Linkedin](https://www.linkedin.com/in/sarthakpranesh/) | [Product Hunt](https://www.producthunt.com/@sarthak_pranesh) |  [Email](mailto:sarthakpranesh08@gmail.com)
 
 <br/>
 
