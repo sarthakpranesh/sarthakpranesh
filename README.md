@@ -1,4 +1,7 @@
 ## Hi there, I'm Sarthak
+
+![](https://komarev.com/ghpvc/?username=sarthakpranesh&color=orange)
+
 I do almost everything
 
 <br />
