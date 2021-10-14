@@ -15,7 +15,7 @@ I do almost everything
 <br />
 
 ### Connect with me
-[Website](https://sarthakpranesh.vercel.app/) | [Twitter](https://twitter.com/SarthakPranesh) | [Linkedin](https://www.linkedin.com/in/sarthakpranesh/) | [Product Hunt](https://www.producthunt.com/@sarthak_pranesh) |  [Email](mailto:sarthakpranesh08@gmail.com)
+[Website](https://www.sarthak.work/) | [Twitter](https://twitter.com/SarthakPranesh) | [Linkedin](https://www.linkedin.com/in/sarthakpranesh/) | [Product Hunt](https://www.producthunt.com/@sarthak_pranesh) |  [Email](mailto:sarthakpranesh08@gmail.com)
 
 <br/>
 
