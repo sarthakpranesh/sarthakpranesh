@@ -10,7 +10,7 @@ I do almost everything
 - Start an open source organization
 - Write blogs on React, React Native, Golang, and Linux
 - Get a job (got 😬)
-- Give GRE and TOEFL (GRE: 315)
+- Give GRE and TOEFL (GRE: 315, TOEFL iBT: 107)
 
 <br />
 
