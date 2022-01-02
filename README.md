@@ -1,16 +1,14 @@
 ## Hi there, I'm Sarthak
 
-I do almost everything
+I'm a software developer proficient in developing scalable and maintainable code throughout various platforms. In my leisure time I like developing apps with React Native, React and Golang.
 
 <br />
 
 ### Goals this year
-- Maintain and Build awesome apps and services with React, React Native, Golang, Nodejs and Python
+- Maintain and Build awesome apps and services
 - Learn Flutter, Kubernetes and Electron
 - Start an open source organization
 - Write blogs on React, React Native, Golang, and Linux
-- Get a job (got 😬)
-- Give GRE and TOEFL (GRE: 315, TOEFL iBT: 107)
 
 <br />
 
