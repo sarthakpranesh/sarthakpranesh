@@ -18,7 +18,7 @@ I'm a software developer proficient in developing scalable and maintainable code
 ### Statistics
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sarthakpranesh&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Sarthak Pranesh's github stats](https://github-readme-stats.vercel.app/api?username=sarthakpranesh&show_icons=true&theme=radical)
+![Sarthak Pranesh's github stats](https://github-readme-stats.vercel.app/api?username=sarthakpranesh&show_icons=true&theme=cobalt)
 
 <br />
 
