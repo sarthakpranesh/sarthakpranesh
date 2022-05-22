@@ -8,10 +8,16 @@ I'm a software developer proficient in developing scalable and maintainable code
 
 ### Goals this year
 ---
-- Maintain and Build awesome apps and services
-- Learn Flutter, Kubernetes, Solid, Svelte and Blockchain
+- Learn Blockchain, Flutter and Golang (in-depth)
+- Create projects:
+    - [ ]  NFT (Blockchain) project with React Native
+    - [ ]  Cross platform (Web, Android, Linux) note taking app with Flutter
+    - [ ]  Image resize web app using go templates
+- Write blogs on
+    - [ ]  Web Assembly with Golang
+    - [ ]  Cross platform development
+    - [ ]  add more….
 - Start an open source organization
-- Write blogs on React, React Native, Golang, and Linux
 
 <br />
 
