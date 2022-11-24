@@ -10,14 +10,14 @@ I'm a software developer proficient in developing scalable and maintainable code
 ---
 - Learn:
     - [ ]  Blockchain
-    - [ ]  Android
+    - [x]  Android
     - [ ]  Flutter
     - [ ]  Golang (Web Assembly and Template)
 - Create projects:
     - [ ]  Image resize web app using go templates
     - [ ]  NFT (Blockchain) project with React Native
 - Finish projects:
-    - [ ]  Weather app in Android
+    - [x]  Weather app in Android
     - [ ]  HummingNote in React Native
 - Write blogs:
     - [ ]  Web Assembly with Golang
