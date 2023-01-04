@@ -8,21 +8,18 @@ I'm a software developer proficient in developing scalable and maintainable code
 
 ### Goals this year
 ---
-- Learn:
-    - [ ]  Blockchain
-    - [x]  Android
-    - [ ]  Flutter
-    - [ ]  Golang (Web Assembly and Template)
-- Create projects:
-    - [ ]  Image resize web app using go templates
-    - [ ]  NFT (Blockchain) project with React Native
-- Finish projects:
-    - [x]  Weather app in Android
-    - [ ]  HummingNote in React Native
-- Write blogs:
-    - [ ]  Web Assembly with Golang
-    - [ ]  React Native: Javascript to Android communication using Bridge
-    - [ ]  React Native: Using react native everywhere template
+- Learn
+    - Golang
+        - Web Assembly
+        - Templating
+    - Rust basics
+- Projects
+    - Image resize web app (Go web assembly, React)
+    - React Native remote console debugger (JS, Go Templating)
+- Blogs
+    - Web assembly basics with Golang
+    - React Native: JS to Native old architecture communication
+    - React Native: Using react-native-everywhere template
 <br />
 
 ### Statistics
