@@ -8,14 +8,23 @@ I'm a software developer proficient in developing scalable and maintainable code
 
 ### Goals this year
 ---
+Taking up a challenge 
 - Learn
     - Golang
         - Web Assembly
         - Templating
     - Rust basics
+        - napi-rs
+    - React Native
+        - react-native-skia
+    - Next.js and Vue.js
+    - UI/UX
+        - Flat Design
+        - Neo Brutalism
 - Projects
-    - Image resize web app (Go web assembly, React)
-    - React Native remote console debugger (JS, Go Templating)
+    - Image resize web app (Go web assembly, Next.js)
+    - React Native remote console debugger (Vue.js, Go Templating)
+    - Extension for VScode to visualize json as graph (Typescript)
 - Blogs
     - Web assembly basics with Golang
     - React Native: JS to Native old architecture communication
