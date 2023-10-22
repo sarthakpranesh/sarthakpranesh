@@ -20,6 +20,6 @@ I love connecting with new people, and you can reach me at sarthakpranesh08@gmai
 
 ### Connect with me
 ---
-[Website](https://www.sarthak.work/) | [Twitter](https://twitter.com/SarthakPranesh) | [Linkedin](https://www.linkedin.com/in/sarthakpranesh/) | [Product Hunt](https://www.producthunt.com/@sarthak_pranesh) |  [Email](mailto:sarthakpranesh08@gmail.com)
+[Website](https://www.sarthak.work/) | [Linkedin](https://www.linkedin.com/in/sarthakpranesh/) | [Product Hunt](https://www.producthunt.com/@sarthak_pranesh) |  [Email](mailto:sarthakpranesh08@gmail.com)
 
 <br/>
