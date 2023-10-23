@@ -1,4 +1,4 @@
-<img src="./header.png" />
+<img src="./cover.jpg" />
 
 I am a software engineer with over 3 years of combined full-time and internship experience in developing and maintaining software solutions, mostly built with Javascript, Kotlin, and Golang. I have helped companies optimize and enhance the reliability of their software products.
 
