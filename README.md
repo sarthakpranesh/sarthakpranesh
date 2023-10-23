@@ -1,7 +1,5 @@
 <img src="./header.png" />
 
-### Who am I?
----
 I am a software engineer with over 3 years of combined full-time and internship experience in developing and maintaining software solutions, mostly built with Javascript, Kotlin, and Golang. I have helped companies optimize and enhance the reliability of their software products.
 
 Some examples of my work include:
@@ -18,8 +16,4 @@ I love connecting with new people, and you can reach me at sarthakpranesh08@gmai
 
 <br />
 
-### Connect with me
----
-[Website](https://www.sarthak.work/) | [Linkedin](https://www.linkedin.com/in/sarthakpranesh/) | [Product Hunt](https://www.producthunt.com/@sarthak_pranesh) |  [Email](mailto:sarthakpranesh08@gmail.com)
-
-<br/>
+[Website](https://www.sarthak.work/) | [Linkedin](https://www.linkedin.com/in/sarthakpranesh/) | [Product Hunt](https://www.producthunt.com/@sarthak_pranesh) 
