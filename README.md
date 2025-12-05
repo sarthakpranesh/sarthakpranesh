@@ -1,7 +1,7 @@
 I am a seasoned software engineer with over 4 years of experience in developing, scaling, and maintaining high-performance software solutions. My expertise spans multiple languages, including JavaScript, TypeScript, Kotlin, Swift, and Golang. Throughout my career, I have consistently helped companies optimize and enhance the reliability of their mobile apps, websites, and other software products.
 
 Some examples of my work include:
-- As Software Engineer II at Cars24, I am an integral part of the Consumer India team, where I contribute to the development of key customer-facing applications and features. My role involves building Orbit using Server Driven UI, crafting complex animations that adhere to 60 FPS standards, and engineering scalable solutions that drive user engagement and satisfaction.
+- As Software Engineer II at Cars24, I was an integral part of the Consumer India team, where I contribute to the development of key customer-facing applications and features. My role involved building Orbit using Server Driven UI, crafting complex animations that adhere to 60 FPS standards, and engineering scalable solutions that drive user engagement and satisfaction.
 
 - As Software Engineer at Spinny, I worked with the Inspection team to optimize and enhance the reliability of the Inspection app, along with implementing new features that came from product. My work led to improved performance of the app on slow-low end and old devices, and a crash-free user experience.
 
